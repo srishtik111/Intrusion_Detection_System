@@ -30,8 +30,6 @@ Accuracy Example: 94.0%
 Confusion matrix and classification report used for performance analysis
 
 Output: A 2D scatter plot showing PCA-reduced feature space with:
-
-🔵 Blue = Normal sessions
-
-🔴 Red = Attack sessions
+Blue = Normal sessions
+Red = Attack sessions
 
